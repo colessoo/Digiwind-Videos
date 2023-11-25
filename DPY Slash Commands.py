@@ -22,4 +22,4 @@ tree = app_commands.CommandTree(client)
 async def slash2(interaction: discord.Interaction):
     await interaction.response.send_message(f"I am working! I was made with Discord.py!", ephemeral = True) 
 
-client.run('token')
+client.run('https://github.com/Digiwind/Digiwind-Videos/blob/main/DPY%20Slash%20Commands.py')
